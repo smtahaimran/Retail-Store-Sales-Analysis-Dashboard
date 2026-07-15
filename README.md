@@ -1,5 +1,5 @@
 
-# Retail Store Sales Performance Dashboard
+# Retail Store Sales Performance Dashboard:
 
 An end-to-end Power BI project analyzing retail sales data to uncover revenue drivers, customer behavior, and growth opportunities, complete with an interactive dashboard and a client-ready presentation.
 
@@ -10,14 +10,14 @@ An end-to-end Power BI project analyzing retail sales data to uncover revenue dr
 - The analysis covers the full process from cleaning the data, to building an interactive dashboard, to summarizing key findings and recommendations. 
 
 
-## About the Data
+## About the Data:
 
 - The dataset includes 5k customer transactions, each representing a single purchase. 
 - It covers 9 product categories, including Electronics, Footwear, Groceries, Home, Beauty, Sports, and both Men's and Women's Clothing. 
 - Each transaction includes details such as customer age, gender, purchase amount, season, payment method, item rating, discount applied, and number of previous purchases. 
 - Customer purchase history was used to group customers into three loyalty tiers (New, Regular, and Loyal) to better understand buying behavior. 
 
-## Process
+## Process:
 
 1. **Data Cleaning & Preparation** : validated data types, checked for nulls/duplicates, and created calculated fields (Age Group, Customer Tier, Discount Tier) to support deeper analysis
 2. **Dashboard Design** : built a interactive Power BI report covering executive KPIs, customer insights, discount/rating analysis, and category/item performance
@@ -57,7 +57,7 @@ An end-to-end Power BI project analyzing retail sales data to uncover revenue dr
 
 
 
-## Key Insights
+## Key Insights:
 
 - Electronics drives nearly two-thirds of total revenue despite fewer transactions than other categories (a high-value, not high-volume, category).
 - Male customers account for ~80% of revenue, almost entirely because Electronics purchases come only from men in this dataset.
@@ -67,7 +67,7 @@ An end-to-end Power BI project analyzing retail sales data to uncover revenue dr
 - Card is the clear preferred payment method, used in about 80% of transactions.
 - Top selling individual products (Laptop, Mobile Phone, Headphones, Smart Watch) are all Electronics items.
 
-## Recommendations
+## Recommendations:
 
 - Grow a second strong category to reduce dependence on Electronics.
 - Make Electronics more appealing to female customers to close the revenue gap.
