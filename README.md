@@ -26,23 +26,23 @@ An end-to-end Power BI project analyzing retail sales data to uncover revenue dr
 
 ## Dashboard Pages
 
-**Page no 1:**
+**Page no 1**
 
 <img width="608" height="333" alt="Screenshot 2026-07-15 100613" src="https://github.com/user-attachments/assets/1a935c20-75ae-43d4-9aa7-8a6d34cc5154" />
 
-**Page no 2:**
+**Page no 2**
 
 <img width="616" height="338" alt="Screenshot 2026-07-15 100805" src="https://github.com/user-attachments/assets/b9549490-5afa-4dc0-be00-bffd9def9464" />
 
-**Page no 3:**
+**Page no 3**
 
 <img width="616" height="338" alt="Screenshot 2026-07-15 100828" src="https://github.com/user-attachments/assets/54fee18b-1c55-4c91-9e55-0336d0602b13" />
 
-**Page no 4:**
+**Page no 4**
 
 <img width="611" height="338" alt="Screenshot 2026-07-15 100845" src="https://github.com/user-attachments/assets/509bdca7-9e9a-4185-b096-64734abb9fe5" />
 
-**Page no 5:**
+**Page no 5**
 
 <img width="610" height="337" alt="Screenshot 2026-07-15 100903" src="https://github.com/user-attachments/assets/31663fed-1120-4c18-8f7a-679632f2dec9" />
 
@@ -50,7 +50,7 @@ An end-to-end Power BI project analyzing retail sales data to uncover revenue dr
 
 <img width="620" height="340" alt="Screenshot 2026-07-15 100922" src="https://github.com/user-attachments/assets/a3342cc4-fe38-495c-8993-061c77b28bdb" />
 
-**Page no 7:**
+**Page no 7**
 
 <img width="612" height="340" alt="Screenshot 2026-07-15 100937" src="https://github.com/user-attachments/assets/d7917e65-92f6-4ac6-aebc-08437206909e" />
 
